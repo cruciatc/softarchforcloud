@@ -1,0 +1,48 @@
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.deps.json
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.dll
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.pdb
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.csproj.AssemblyReference.cache
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.AssemblyInfoInputs.cache
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.AssemblyInfo.cs
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.csproj.CoreCompileInputs.cache
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.dll
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\refint\CleanArc.Common.dll
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.pdb
+D:\Work\Web\CursSoftwareArchitecture\Cura 15.03_curs4\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\ref\CleanArc.Common.dll
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.deps.json
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.dll
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.pdb
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.csproj.AssemblyReference.cache
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.AssemblyInfoInputs.cache
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.AssemblyInfo.cs
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.csproj.CoreCompileInputs.cache
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.dll
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\refint\CleanArc.Common.dll
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.pdb
+D:\Work\Web\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\ref\CleanArc.Common.dll
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.deps.json
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.dll
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.pdb
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.csproj.AssemblyReference.cache
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.AssemblyInfoInputs.cache
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.AssemblyInfo.cs
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.csproj.CoreCompileInputs.cache
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.dll
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\refint\CleanArc.Common.dll
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.pdb
+D:\Docs\Cursuri\CursSoftwareArchitecture\Curs 15.03_curs3\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\ref\CleanArc.Common.dll
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.deps.json
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.dll
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\bin\Debug\net6.0\CleanArc.Common.pdb
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.csproj.AssemblyReference.cache
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.AssemblyInfoInputs.cache
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.AssemblyInfo.cs
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.csproj.CoreCompileInputs.cache
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.dll
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\refint\CleanArc.Common.dll
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\CleanArc.Common.pdb
+D:\Docs\Cursuri\CursSoftwareArchitecture\TemaCurs\trainingsoftarchforcloud-main\CleanArchitecture\CleanArc\CleanArc.Common\obj\Debug\net6.0\ref\CleanArc.Common.dll

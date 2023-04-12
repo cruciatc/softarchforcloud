@@ -1,0 +1,429 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Infrastructure\\CleanArc.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Application\\CleanArc.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Application\\CleanArc.Application.csproj",
+        "projectName": "CleanArc.Application",
+        "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Application\\CleanArc.Application.csproj",
+        "packagesPath": "C:\\Users\\corneliuc\\.nuget\\packages\\",
+        "outputPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\corneliuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj"
+              },
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CommonServiceLocator": {
+              "target": "Package",
+              "version": "[2.0.6, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.5, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj",
+        "projectName": "CleanArc.Common",
+        "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj",
+        "packagesPath": "C:\\Users\\corneliuc\\.nuget\\packages\\",
+        "outputPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\corneliuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj",
+        "projectName": "CleanArc.Domain",
+        "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj",
+        "packagesPath": "C:\\Users\\corneliuc\\.nuget\\packages\\",
+        "outputPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\corneliuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Infrastructure\\CleanArc.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Infrastructure\\CleanArc.Infrastructure.csproj",
+        "projectName": "CleanArc.Infrastructure",
+        "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Infrastructure\\CleanArc.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\corneliuc\\.nuget\\packages\\",
+        "outputPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\corneliuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Application\\CleanArc.Application.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Application\\CleanArc.Application.csproj"
+              },
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj"
+              },
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj"
+              },
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Persistance\\CleanArc.Persistance.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Persistance\\CleanArc.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.5, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Persistance\\CleanArc.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Persistance\\CleanArc.Persistance.csproj",
+        "projectName": "CleanArc.Persistance",
+        "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Persistance\\CleanArc.Persistance.csproj",
+        "packagesPath": "C:\\Users\\corneliuc\\.nuget\\packages\\",
+        "outputPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\corneliuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Application\\CleanArc.Application.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Application\\CleanArc.Application.csproj"
+              },
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Common\\CleanArc.Common.csproj"
+              },
+              "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj": {
+                "projectPath": "D:\\Docs\\Cursuri\\CursSoftwareArchitecture\\TemaCurs\\TemaFinala\\CleanArchitecture\\CleanArc\\CleanArc.Domain\\CleanArc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
